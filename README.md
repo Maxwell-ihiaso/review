@@ -2,6 +2,8 @@
 
 ---
 
+[view Demo](https://review-proj.netlify.app/)
+
 ![Our Reviews](/public/review_preview.png)
 
 ---
